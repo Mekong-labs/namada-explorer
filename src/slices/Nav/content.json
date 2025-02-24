@@ -1,0 +1,32 @@
+[
+  {
+    "text": [
+      {
+        "text": "Blocks"
+      }
+    ],
+    "link": {
+      "url": "/blocks"
+    }
+  },
+  {
+    "text": [
+      {
+        "text": "Validators"
+      }
+    ],
+    "link": {
+      "url": "/validators"
+    }
+  },
+  {
+    "text": [
+      {
+        "text": "Proposals"
+      }
+    ],
+    "link": {
+      "url": "/proposals"
+    }
+  }
+]

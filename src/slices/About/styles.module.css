@@ -1,0 +1,10 @@
+.sliderWrapper :global(.slick-track) {
+  display: flex;
+  gap: 3rem;
+}
+
+@media screen and (max-width: 600px) {
+  .sliderWrapper :global(.slick-track) {
+    gap: 0rem;
+  }
+}

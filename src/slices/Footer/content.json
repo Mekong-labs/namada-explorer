@@ -1,0 +1,153 @@
+{
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Web",
+            "url": "#",
+            "target": ""
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        }
+      ],
+      "primary": {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Heading 1"
+          }
+        ]
+      },
+      "id": "footer_item$999f1823-e176-4b31-9299-a487d2942d91",
+      "slice_type": "footer_item",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        }
+      ],
+      "primary": {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Heading 2 "
+          }
+        ]
+      }
+    },
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        },
+        {
+          "name": [
+            {
+              "type": "paragraph",
+              "text": "Item navigation"
+            }
+          ],
+          "link": {
+            "link_type": "Any"
+          }
+        }
+      ],
+      "primary": {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Heading 3"
+          }
+        ]
+      },
+      "id": "footer_item$6d1fc254-ae31-4cf5-b7e0-f48dd6812dc5",
+      "slice_type": "footer_item",
+      "slice_label": null
+    }
+  ]
+}

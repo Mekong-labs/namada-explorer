@@ -1,0 +1,87 @@
+[
+  {
+    "aboutimg": {
+      "dimensions": {
+        "width": 640,
+        "height": 640
+      },
+      "alt": null,
+      "url": "https://blog.namada.net/content/images/2023/12/DALL-E-2023-12-12-00.08.58---Create-a-landscape-oriented-illustration-based-on-the-provided-text--incorporating-the-style-and-visual-identity-elements-of-Namada-with-a-strong-focu-1.png"
+    },
+    "abouttitle": [
+      {
+        "text": "About Namada."
+      }
+    ],
+    "aboutdecs": [
+      {
+        "text": "Namada is a Layer 1 Blockchain solution that redefines asset‑agnostic, multichain privacy."
+      }
+    ],
+    "aboutlink": {
+      "url": "#"
+    },
+    "linktitle": [
+      {
+        "text": "More about Namada"
+      }
+    ]
+  },
+  {
+    "aboutimg": {
+      "dimensions": {
+        "width": 640,
+        "height": 640
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://blog.namada.net/content/images/size/w1600/2023/12/7abe6e72-f705-42eb-87e8-7b807bf573ed.webp"
+    },
+    "abouttitle": [
+      {
+        "text": "Modular Privacy."
+      }
+    ],
+    "aboutdecs": [
+      {
+        "text": "The ability to seamlessly retrofit privacy onto existing digital assets and decentralized applications."
+      }
+    ],
+    "aboutlink": {
+      "url": "#"
+    },
+    "linktitle": [
+      {
+        "text": "More about Namada"
+      }
+    ]
+  },
+  {
+    "aboutimg": {
+      "dimensions": {
+        "width": 640,
+        "height": 640
+      },
+      "alt": null,
+      "url": "https://pbs.twimg.com/media/GDEhWLAWgAA3TqT?format=jpg&name=large"
+    },
+    "abouttitle": [
+      {
+        "text": "Zero requirement."
+      }
+    ],
+    "aboutdecs": [
+      {
+        "text": "Zero requirement for altering the structural design of the blockchains, assets or networks one interacts with."
+      }
+    ],
+    "aboutlink": {
+      "url": "#"
+    },
+    "linktitle": [
+      {
+        "text": "More about Namada"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "primary": {
+    "herobg": {
+      "dimensions": {
+        "width": 1392,
+        "height": 710
+      },
+      "alt": "greennet-hero",
+      "url": "https://images.prismic.io/greengnt/6582a487531ac2845a26ccec_hero-bg.png?auto=format,compress"
+    },
+    "title": [
+      {
+        "text": "A New Era of Privacy in <br className=\"mt-0 block content-[''] sm:mt-5\" /> Multichain Interactions"
+      }
+    ],
+    "subtitle": [
+      {
+        "text": "Get started in just a few minutes"
+      }
+    ]
+  }
+}
